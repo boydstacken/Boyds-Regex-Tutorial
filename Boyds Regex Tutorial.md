@@ -6,9 +6,9 @@ Methods can either be more on the limited spectrum of direct matches. This tutor
 
 ## Summary
 
-The regex expression example we will be reviewing is matching an email expression. We will describe components like  anchors and quantifiers, grouping constructs, bracket expressions, character classes, the OR operator, flags and character escapes.
+The regex expression example we will be reviewing is matching an email expression. We will describe components like  anchors and quantifiers, grouping constructs, bracket expressions, character classes, and character escapes.
 
-The code snippet for matching an email expression is:  `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. When using applications and technologies like Node or MongoDB.
+The code snippet for matching an email expression is:  `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. When using applications/technologies like Node or MongoDB.
 
 With this we can find certain patterns in a string and replace find characters in string input.
 
@@ -62,3 +62,5 @@ Character escapes are used to match specific characters with specialized meaning
 ## Author
 
 Boyd Stacken
+https://github.com/boydstacken
+boydstacken@icloud.com
